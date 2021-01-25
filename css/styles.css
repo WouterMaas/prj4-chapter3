@@ -1,8 +1,32 @@
+html, body {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+div#list-border {
+	border: solid #AAAFFF 5px;
+	padding: 10px;
+	background-color: lightcyan;
+}
+
+
 .introduction {
 	color: blue;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	margin: 10px;
 }
+
 .title-segment {
 	background-color: lightskyblue;
+}
+
+.misc {
+	font-size: 10px;
+}
+.misc p {
+	border: 0;
+	background: 0;
+	padding: 0;
 }
