@@ -1,14 +1,13 @@
 html, body {
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 10px;
-	margin-bottom: 20px;
+	margin: 20px
 }
 
-div#list-border {
+
+div.list-border, p:not(#paragraph-journey) {
 	border: solid #AAAFFF 5px;
 	padding: 10px;
 	background-color: lightcyan;
+
 }
 
 
