@@ -1,15 +1,18 @@
 html, body {
 	margin: 20px
 }
+.paragraph {
+	border: solid #AAAFFF 5px;
+	padding: 10px;
+	background-color: lightcyan;	
+}
 
-
-div.list-border, p:not(#paragraph-journey) {
+div.list-border {
 	border: solid #AAAFFF 5px;
 	padding: 10px;
 	background-color: lightcyan;
 
 }
-
 
 .introduction {
 	color: blue;
