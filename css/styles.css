@@ -1,10 +1,19 @@
-html, body {
-	margin: 20px
+html {
+	background-color: lightgray;
+	margin: 30px;
 }
+
+body {
+	margin: 30px;
+}
+
 .paragraph {
 	border: solid #AAAFFF 5px;
 	padding: 10px;
-	background-color: lightcyan;	
+	background-color: lightcyan;
+	font-family: Josefin Sans;
+	line-height: 25px;
+
 }
 
 div.list-border {
@@ -16,6 +25,7 @@ div.list-border {
 
 .introduction {
 	color: blue;
+	text-align: center;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	margin: 10px;
 }
