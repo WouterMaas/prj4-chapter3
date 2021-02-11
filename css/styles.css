@@ -34,10 +34,10 @@ div.list-border {
 	background-color: lightskyblue;
 }
 
-.misc {
+#misc {
 	font-size: 10px;
 }
-.misc p {
+#misc p {
 	border: 0;
 	background: 0;
 	padding: 0;
